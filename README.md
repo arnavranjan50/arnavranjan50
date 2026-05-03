@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on two projects:<br>1. Animal Detection<br>2. Campus Hustlers(My Own Website)<br><br>I'm looking forward to collaborate with the tech giants to make the technology ahead of it's time<br><br>I'll be glad to really work on real life scenarios
+I'm currently working on four projects(1 Deployed 1 Active 2 In Progress) :<br>1. Animal Detection<br>2. Campus Hustlers(My Own Website)<br>3. AI Based Human Mental Health Detection Using Typing Exercises<br>4. AI based Music player with AI chatbot and mood detection<br><br>I'm looking forward to collaborate with the tech giants to make the technology ahead of it's time<br><br>I'll be glad to really work on real life scenarios
 
 
 ## 🌐 Socials:
