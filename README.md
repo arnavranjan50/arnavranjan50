@@ -6,7 +6,7 @@
 </p>
 
 
-![Arnav Ranjan (19)](https://github.com/user-attachments/assets/53b8b255-c8cf-4d0c-88a3-372e2da146e5)
+![Arnav Ranjan (19)](https://res.cloudinary.com/drrumkoen/image/upload/v1778936771/07244653-7a7c-4c0c-bfe6-48f0337dbdf5_hsmzvj.png)
 <!-- 
 <h1 align="center">
   Hey! I'm <a href="www.linkedin.com/in/arnav-ranjan-972348207">Arnav Ranjan</a> ✌️ 
