@@ -1,24 +1,92 @@
-# 💫 About Me:
-I'm currently working on four projects(1 Deployed 1 Active 2 In Progress) :<br>1. Animal Detection<br>2. Campus Hustlers(My Own Website)<br>3. AI Based Human Mental Health Detection Using Typing Exercises<br>4. AI based Music player with AI chatbot and mood detection<br><br>I'm looking forward to collaborate with the tech giants to make the technology ahead of it's time<br><br>I'll be glad to really work on real life scenarios
+<p align="left">
+  <a href="https://github.com/arnavranjan50"
+    <img src="https://img.shields.io/github/followers/arnavranjan50?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=arnavranjan50&color=blue" alt="Profile Views"/>
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnav_ranjan18) 
+![Arnav Ranjan (19)](https://github.com/user-attachments/assets/53b8b255-c8cf-4d0c-88a3-372e2da146e5)
+<!-- 
+<h1 align="center">
+  Hey! I'm <a href="www.linkedin.com/in/arnav-ranjan-972348207">Arnav Ranjan</a> ✌️ 
+</h1>
+-->
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arnavranjan50&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arnavranjan50&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavranjan50&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Open+Source+Contributor;Learning+by+Building;Let's+Build+Something+Awesome!&center=true&width=500&height=25">
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arnavranjan50&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="275"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=arnavranjan50&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🚀 I'm a **AI engineer & Aspiring IAF pilot**
+- ⚡ Strong believer in **learning by doing**
+- 📬 Reach me at: **arnavranjan50@gmail.com**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- - 👨‍💻 Currently sharpening my skills in **R**, **React.js**, and full-stack development. -->
+
+
+
+ <br>
+ 
+## 💻 Tech Stack
+- **Languages:** Java, JavaScript, C, Python, SQL
+- **Frontend:** React.js, Flask, HTML, CSS
+- **Backend:** PostgreSQL, MongoDB
+- 
+ <br>
+<!--
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</p>
+-->
+
+## 📊 GitHub Stats
+
+<table align="center">
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=arnavranjan50&show_icons=true&theme=radical" width="420em"/>
+  </td>
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavranjan50&theme=radical" width="440em"/>
+  </td>
+</tr>
+</table>
+
+<!--
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/arnavranjan" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
+  </a>
+</p>
+--> 
+
+<p align="center">
+  <strong>Enjoying my work or contributions? Feel free to show support 😊</strong>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/arnavranjan50" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting! Have an amazing day 🚀</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
