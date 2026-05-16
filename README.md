@@ -34,7 +34,6 @@
 - **Languages:** Java, JavaScript, C, Python, SQL
 - **Frontend:** React.js, Flask, HTML, CSS
 - **Backend:** PostgreSQL, MongoDB
-- 
  <br>
 <!--
 <p align="left">
