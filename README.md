@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://github.com/arnavranjan50"
+  <a href="https://github.com/arnavranjan50"/>
     <img src="https://img.shields.io/github/followers/arnavranjan50?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=arnavranjan50&color=blue" alt="Profile Views"/>
