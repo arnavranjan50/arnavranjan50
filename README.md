@@ -185,11 +185,11 @@ System Design  ████████░░░░░░░░░░░░  40%
 
 | 🧪 Project | 📝 Description | 🧰 Stack | 🔗 Links |
 |:--|:--|:--|:--:|
-| **DevConnect** | Real-time developer networking platform with chat & code sharing | `React` `Node.js` `Socket.io` `MongoDB` | [![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](#) [![Code](https://img.shields.io/badge/Source-Code-black?style=flat-square&logo=github)](#) |
-| **SmartCampus** | Attendance + timetable system using face recognition | `Python` `OpenCV` `Flask` `MySQL` | [![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](#) [![Code](https://img.shields.io/badge/Source-Code-black?style=flat-square&logo=github)](#) |
-| **AlgoViz** | Interactive sorting & graph algorithm visualiser | `JavaScript` `Canvas` `Tailwind` | [![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](#) [![Code](https://img.shields.io/badge/Source-Code-black?style=flat-square&logo=github)](#) |
-| **MiniOS-Sim** | CPU scheduling & memory management simulator in C++ | `C++` `OS Concepts` | [![Code](https://img.shields.io/badge/Source-Code-black?style=flat-square&logo=github)](#) |
-| **SQL-Lens** | Natural-language → SQL query helper | `Python` `LLMs` `PostgreSQL` | [![Code](https://img.shields.io/badge/Source-Code-black?style=flat-square&logo=github)](#) |
+| **Campus Hustlers** | Student Job, Internship and Hackathon Finder | `React` `Node.js` `Socket.io` `MongoDB` | [![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](#) [![Code](https://img.shields.io/badge/Source-Code-black?style=flat-square&logo=github)](#) |
+| **VIBE-Player** | AI Based Mood Music Recognition | `Python` `OpenCV` `Flask` `MySQL` | [![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](#) [![Code](https://img.shields.io/badge/Source-Code-black?style=flat-square&logo=github)](#) |
+| **ADAS---1.5** | Animal Detection in Night time and day time | `JavaScript` `Canvas` `Tailwind` | [![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](#) [![Code](https://img.shields.io/badge/Source-Code-black?style=flat-square&logo=github)](#) |
+| **GAIT analysis** | Analyzing the Human Gait | `C++` `OS Concepts` | [![Code](https://img.shields.io/badge/Source-Code-black?style=flat-square&logo=github)](#) |
+| **NightCode** | Coding agent | `Python` `LLMs` `PostgreSQL` | [![Code](https://img.shields.io/badge/Source-Code-black?style=flat-square&logo=github)](#) |
 
 ---
 
@@ -340,11 +340,11 @@ flowchart LR
 
 | Platform | Profile | Badge |
 |:--|:--|:--|
-| 🟧 **LeetCode** | [`LEETCODE_USER`](https://leetcode.com/BraveGull) | ![LeetCode](https://img.shields.io/badge/Solved-500+-FFA116?style=flat-square&logo=leetcode&logoColor=black) |
-| 🟦 **Codeforces** | [`YOUR_USERNAME`](https://codeforces.com/profile/HairyBeetle) | ![CF](https://img.shields.io/badge/Rating-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) |
-| 🟩 **GeeksforGeeks** | [`YOUR_USERNAME`](https://auth.geeksforgeeks.org/user/arnavraueyq) | ![GFG](https://img.shields.io/badge/Problems-300+-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
-| 🟫 **CodeChef** | [`YOUR_USERNAME`](https://www.codechef.com/users/fair_wolves_49) | ![CC](https://img.shields.io/badge/Stars-3★-5B4638?style=flat-square&logo=codechef&logoColor=white) |
-| ⬛ **HackerRank** | [`YOUR_USERNAME`](https://www.hackerrank.com/trlalic1030u) | ![HR](https://img.shields.io/badge/Badges-5★-00EA64?style=flat-square&logo=hackerrank&logoColor=black) |
+| 🟧 **LeetCode** | [`BraveGull`](https://leetcode.com/BraveGull) | ![LeetCode](https://img.shields.io/badge/Solved-500+-FFA116?style=flat-square&logo=leetcode&logoColor=black) |
+| 🟦 **Codeforces** | [`HairyBeetle`](https://codeforces.com/profile/HairyBeetle) | ![CF](https://img.shields.io/badge/Rating-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) |
+| 🟩 **GeeksforGeeks** | [`arnavraueyq`](https://auth.geeksforgeeks.org/user/arnavraueyq) | ![GFG](https://img.shields.io/badge/Problems-300+-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
+| 🟫 **CodeChef** | [`fair_wolves_49`](https://www.codechef.com/users/fair_wolves_49) | ![CC](https://img.shields.io/badge/Stars-3★-5B4638?style=flat-square&logo=codechef&logoColor=white) |
+| ⬛ **HackerRank** | [`trlalic1030u`](https://www.hackerrank.com/trlalic1030u) | ![HR](https://img.shields.io/badge/Badges-5★-00EA64?style=flat-square&logo=hackerrank&logoColor=black) |
 
 <details>
 <summary><b>🗺️ DSA Roadmap Checklist</b></summary>
