@@ -2,7 +2,7 @@ name: Update README Activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,6 +15,7 @@ jobs:
       - name: Refresh recent activity block in README
         uses: jamesgeorge007/github-activity-readme@master
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: ${{ github.repository_owner }}
           COMMIT_MSG: "docs: update recent activity ⚡"
           MAX_LINES: 8
