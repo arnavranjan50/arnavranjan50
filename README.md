@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=250&section=header&text=Your%20Name&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DSA%20%E2%80%A2%20Open%20Source&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=250&section=header&text=Arnav%20Ranjan&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DSA%20%E2%80%A2%20Open%20Source&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=760&height=55&lines=%24+whoami+%E2%86%92+CSE+Undergrad+%26+Full+Stack+Dev;%24+git+commit+-m+%22solved+1+more+bug%22;%24+while%28alive%29+%7B+eat%28%29%3B+sleep%28%29%3B+code%28%29%3B+%7D;Turning+coffee+%E2%98%95+into+code+%F0%9F%92%BB;Open+to+internships+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
