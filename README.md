@@ -1,9 +1,9 @@
 <!-- ═══════════════════════════════════════════════════════════════════
   🔧 SETUP: Find & Replace these placeholders across the file
-     YOUR_USERNAME   → your GitHub username (repo must be named the same)
-     Your Name       → your real name
-     REPO_NAME       → a repo you want to feature (used in pin cards / badges)
-     LEETCODE_USER   → your LeetCode username
+     YOUR_USERNAME   → arnavranjan50 (repo must be named the same)
+     Your Name       → Arnav Ranjan
+     REPO_NAME       → Campus-Hustlers (used in pin cards / badges)
+     LEETCODE_USER   → BraveGull
 ═══════════════════════════════════════════════════════════════════ -->
 
 <!-- ───────────────────────── HEADER ───────────────────────── -->
